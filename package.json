@@ -1,0 +1,13 @@
+{
+ "name": "hello_world_nodejs_app",
+ "version": "1.0.0",
+ "description": "Node.js on Docker",
+ "author": "Suraj Deshmukh <surajssd009005@gmail.com>",
+ "main": "server.js",
+ "scripts": {
+ "start": "node server.js"
+ },
+ "dependencies": {
+ "express": "^4.13.3"
+ }
+}
